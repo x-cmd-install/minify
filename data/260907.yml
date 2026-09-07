@@ -5,7 +5,7 @@ about:
   head: abef224
   archived: false
   latestVersion: "v2.24.17"
-  collectedAt: 2026-09-07T04:38:46Z
+  collectedAt: 2026-09-07T19:49:36Z
 timeline:
   created: 2014-05-21
   lastCommit: 2026-09-01
@@ -86,7 +86,7 @@ total:
   commit: 2764
 ---
 path: /home/runner/.x-repo/github.com/tdewolff/minify
-collectedAt: 2026-09-07T04:38:50Z
+collectedAt: 2026-09-07T19:49:39Z
 loc:
   JavaScript:
     code: 423466
@@ -327,7 +327,7 @@ checks:
       - 'Warn: release artifact v2.24.13 does not have provenance: https://api.github.com/repos/tdewolff/minify/releases/313176733'
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:52+00:00
+  collectedAt: 2026-09-07T19:49:40+00:00
   platform:
     darwin/arm64:
       name:  minify_darwin_arm64.tar.gz
