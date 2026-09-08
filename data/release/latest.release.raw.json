@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2097940,
       "digest": "sha256:2e5d0623a6c5ffdb96c675214472c411557a89e456c1046b715ae80a985bb189",
-      "download_count": 120,
+      "download_count": 122,
       "created_at": "2026-08-11T20:10:28Z",
       "updated_at": "2026-08-11T20:10:29Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2251428,
       "digest": "sha256:5baa0aa1255146fdf52ca46eeb15d856b59382966965808499c3b6252fb1d7e7",
-      "download_count": 10634,
+      "download_count": 10784,
       "created_at": "2026-08-11T20:10:30Z",
       "updated_at": "2026-08-11T20:10:31Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_amd64.tar.gz"
