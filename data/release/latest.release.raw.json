@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2251428,
       "digest": "sha256:5baa0aa1255146fdf52ca46eeb15d856b59382966965808499c3b6252fb1d7e7",
-      "download_count": 10609,
+      "download_count": 10634,
       "created_at": "2026-08-11T20:10:30Z",
       "updated_at": "2026-08-11T20:10:31Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_amd64.tar.gz"
