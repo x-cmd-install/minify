@@ -2,28 +2,28 @@ about:
   description: "Go minifiers for web formats"
   license: MIT
   homepage: https://go.tacodewolff.nl/minify
-  head: abef224
+  head: b59b843
   archived: false
   latestVersion: "v2.24.17"
   latestRelease: "v2.24.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:36:23Z
+  collectedAt: 2026-09-09T18:52:12Z
 timeline:
   created: 2014-05-21
-  lastCommit: 2026-09-01
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-11
   lastRelease: 2026-08-11
   lastPrerelease: 
 popularity:
-  star: 4139
+  star: 4138
   watcher: 42
   fork: 243
   release: 161
-  contributor: 49
+  contributor: 50
   pullRequest: 397
   issue: 634
 language:
-  Go: 661122
+  Go: 662476
   TypeScript: 19268
   JavaScript: 7567
   Python: 5431
@@ -31,66 +31,66 @@ language:
   Makefile: 2068
   Dockerfile: 464
   HTML: 217
-totalBytes: 700062
+totalBytes: 701416
 recent:
   last30d:
     since: 2026-08-10
     release: 1
-    mergedPR: 6
-    openPR: 6
+    mergedPR: 8
+    openPR: 4
     closedIssue: 2
     openIssue: 0
-    commit: 8
+    commit: 10
   last60d:
     since: 2026-07-11
     release: 4
-    mergedPR: 21
-    openPR: 6
+    mergedPR: 23
+    openPR: 4
     closedIssue: 5
     openIssue: 1
-    commit: 26
+    commit: 28
   last90d:
     since: 2026-06-11
     release: 4
-    mergedPR: 26
-    openPR: 6
+    mergedPR: 28
+    openPR: 4
     closedIssue: 5
     openIssue: 1
-    commit: 40
+    commit: 42
   last180d:
     since: 2026-03-13
     release: 7
-    mergedPR: 56
-    openPR: 8
+    mergedPR: 58
+    openPR: 6
     closedIssue: 12
     openIssue: 3
-    commit: 80
+    commit: 82
   last360d:
     since: 2025-09-14
     release: 14
-    mergedPR: 88
-    openPR: 8
+    mergedPR: 90
+    openPR: 6
     closedIssue: 26
     openIssue: 7
-    commit: 147
+    commit: 149
   last720d:
     since: 2024-09-19
     release: 39
-    mergedPR: 128
-    openPR: 8
+    mergedPR: 130
+    openPR: 6
     closedIssue: 61
     openIssue: 17
-    commit: 413
+    commit: 418
 total:
   release: 161
-  mergedPR: 274
-  openPR: 8
+  mergedPR: 276
+  openPR: 6
   closedIssue: 600
   openIssue: 34
-  commit: 2764
+  commit: 2769
 ---
 path: /home/runner/.x-repo/github.com/tdewolff/minify
-collectedAt: 2026-09-09T04:36:26Z
+collectedAt: 2026-09-09T18:52:16Z
 loc:
   JavaScript:
     code: 423466
@@ -118,9 +118,9 @@ loc:
     blanks: 237
     files: 8
   Go:
-    code: 16576
+    code: 16624
     comments: 1798
-    blanks: 1050
+    blanks: 1054
     files: 60
   Css:
     code: 15860
@@ -178,9 +178,9 @@ loc:
     blanks: 0
     files: 19
 total:
-  code: 633231
+  code: 633279
   comments: 71189
-  blanks: 69827
+  blanks: 69831
   files: 192
 ---
 date: "2026-09-07"
