@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2097940,
       "digest": "sha256:2e5d0623a6c5ffdb96c675214472c411557a89e456c1046b715ae80a985bb189",
-      "download_count": 129,
+      "download_count": 134,
       "created_at": "2026-08-11T20:10:28Z",
       "updated_at": "2026-08-11T20:10:29Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2229657,
       "digest": "sha256:1cb4fa9d3c58300330d4251b9a8f8749639d466a56f2ea7305226d55106b5f8e",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-08-11T20:10:29Z",
       "updated_at": "2026-08-11T20:10:30Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_freebsd_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2251428,
       "digest": "sha256:5baa0aa1255146fdf52ca46eeb15d856b59382966965808499c3b6252fb1d7e7",
-      "download_count": 11725,
+      "download_count": 12074,
       "created_at": "2026-08-11T20:10:30Z",
       "updated_at": "2026-08-11T20:10:31Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2027100,
       "digest": "sha256:6c0e5b41e6f23314c25b6079cc4630b2434c33b8b57d523a50a0077c76f70c6d",
-      "download_count": 277,
+      "download_count": 289,
       "created_at": "2026-08-11T20:10:31Z",
       "updated_at": "2026-08-11T20:10:32Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2216924,
       "digest": "sha256:eb70d7e18de2d995438e61b3c47053e27c23ca61686f2a3eeee77273e12fcb90",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-11T20:10:32Z",
       "updated_at": "2026-08-11T20:10:32Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_netbsd_amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2334670,
       "digest": "sha256:a854e283026752c34cf0c69fe574854526adda50721244285c53cf0c195f23b0",
-      "download_count": 351,
+      "download_count": 357,
       "created_at": "2026-08-11T20:10:33Z",
       "updated_at": "2026-08-11T20:10:34Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_windows_amd64.zip"
