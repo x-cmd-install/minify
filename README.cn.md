@@ -4,7 +4,7 @@
 
 Go minifiers for web formats
 
-![minify](https://repo.x-cmd.io/minify.svg)
+![minify](https://repo.x-cmd.io/minify.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,21 @@ x install minify
 - **最新版本**: `v2.24.17` (2026-08-11)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-08-11T20:05:55Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/tdewolff/minify/releases/download/v2.24.17/checksums.txt) | 742 B | `other` |
+| [minify-deps.tar.xz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify-deps.tar.xz) | 3.2 MiB | `other` |
+| [minify_darwin_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_darwin_amd64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
+| [minify_darwin_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_darwin_arm64.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
+| [minify_freebsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_freebsd_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [minify_linux_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [minify_linux_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_linux_arm64.tar.gz) | 1.9 MiB | `native/linux/arm64` |
+| [minify_netbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_netbsd_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [minify_openbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_openbsd_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [minify_windows_amd64.zip](https://github.com/tdewolff/minify/releases/download/v2.24.17/minify_windows_amd64.zip) | 2.2 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +86,4 @@ minify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:36:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:29:05Z._
