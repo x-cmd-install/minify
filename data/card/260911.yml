@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.24.17"
   latestRelease: "v2.24.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:10:25Z
+  collectedAt: 2026-09-11T04:33:06Z
 timeline:
   created: 2014-05-21
   lastCommit: 2026-09-09
@@ -90,7 +90,7 @@ total:
   commit: 2769
 ---
 path: /home/runner/.x-repo/github.com/tdewolff/minify
-collectedAt: 2026-09-11T00:10:29Z
+collectedAt: 2026-09-11T04:33:09Z
 loc:
   JavaScript:
     code: 423466
