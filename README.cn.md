@@ -26,11 +26,11 @@ x install minify
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.5 / 10**
+总评分: **4.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ x install minify
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 8 | 4 | 1 | 0 | 11 |
-| last60d | 2026-07-18 | 4 | 21 | 4 | 5 | 1 | 29 |
-| 90d | 2026-06-18 | 4 | 27 | 4 | 5 | 1 | 43 |
-| last180d | 2026-03-20 | 7 | 55 | 6 | 10 | 3 | 83 |
-| 360d | 2025-09-21 | 14 | 90 | 6 | 26 | 7 | 149 |
-| last720d | 2024-09-26 | 39 | 130 | 6 | 61 | 17 | 410 |
+| 30d | 2026-08-18 | 0 | 8 | 4 | 1 | 0 | 11 |
+| last60d | 2026-07-19 | 4 | 21 | 4 | 5 | 1 | 29 |
+| 90d | 2026-06-19 | 4 | 27 | 4 | 5 | 1 | 43 |
+| last180d | 2026-03-21 | 7 | 55 | 6 | 10 | 3 | 83 |
+| 360d | 2025-09-22 | 14 | 90 | 6 | 26 | 7 | 149 |
+| last720d | 2024-09-27 | 39 | 130 | 6 | 61 | 17 | 410 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ minify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260916.yml` · 2026-09-16T04:54:55Z._
+_数据快照: `data/card/260917.yml` · 2026-09-17T04:55:33Z._
