@@ -4,7 +4,7 @@
 
 Go minifiers for web formats
 
-![minify](https://repo.x-cmd.io/minify.svg?lang=zh)
+[![x-cmd/install — minify Code Quality Monitoring Repo Card](https://repo.x-cmd.io/minify.svg?lang=zh)](https://x-cmd.com/install/minify)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install minify
 
 ## 流行度
 
-- **Star**: 4,141 · **Fork**: 243 · **开放 issue**: 634 · **贡献者**: 50
+- **Star**: 4,140 · **Fork**: 243 · **开放 issue**: 635 · **贡献者**: 50
 
 ## 累计统计
 
-- **发布数**: 161 · **已合并 PR**: 276 · **开放 PR**: 6 · **已关闭 issue**: 600 · **开放 issue**: 34 · **提交数**: 2772
+- **发布数**: 161 · **已合并 PR**: 276 · **开放 PR**: 6 · **已关闭 issue**: 600 · **开放 issue**: 35 · **提交数**: 2772
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 8 | 4 | 1 | 0 | 12 |
-| last60d | 2026-07-20 | 4 | 21 | 4 | 5 | 1 | 30 |
-| 90d | 2026-06-20 | 4 | 27 | 4 | 5 | 1 | 44 |
-| last180d | 2026-03-22 | 7 | 55 | 6 | 10 | 3 | 84 |
-| 360d | 2025-09-23 | 14 | 89 | 6 | 26 | 7 | 150 |
-| last720d | 2024-09-28 | 39 | 130 | 6 | 60 | 17 | 411 |
+| 30d | 2026-08-21 | 0 | 8 | 4 | 1 | 1 | 8 |
+| last60d | 2026-07-22 | 4 | 21 | 4 | 4 | 2 | 25 |
+| 90d | 2026-06-22 | 4 | 27 | 4 | 5 | 2 | 44 |
+| last180d | 2026-03-24 | 7 | 54 | 6 | 10 | 4 | 80 |
+| 360d | 2025-09-25 | 14 | 89 | 6 | 26 | 8 | 148 |
+| last720d | 2024-09-30 | 39 | 130 | 6 | 60 | 18 | 411 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ minify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:50:31Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:02:10Z._
