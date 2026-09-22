@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,140 · **Forks**: 243 · **Open issues**: 635 · **Contributors**: 50
+- **Stars**: 4,141 · **Forks**: 243 · **Open issues**: 635 · **Contributors**: 50
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 8 | 4 | 1 | 1 | 8 |
-| last60d | 2026-07-23 | 4 | 21 | 4 | 4 | 2 | 25 |
-| 90d | 2026-06-23 | 4 | 27 | 4 | 5 | 2 | 44 |
-| last180d | 2026-03-25 | 7 | 53 | 6 | 9 | 4 | 80 |
-| 360d | 2025-09-26 | 14 | 89 | 6 | 25 | 8 | 148 |
-| last720d | 2024-10-01 | 39 | 130 | 6 | 60 | 18 | 407 |
+| 30d | 2026-08-23 | 0 | 6 | 4 | 1 | 1 | 8 |
+| last60d | 2026-07-24 | 4 | 21 | 4 | 3 | 2 | 25 |
+| 90d | 2026-06-24 | 4 | 27 | 4 | 5 | 2 | 44 |
+| last180d | 2026-03-26 | 6 | 52 | 6 | 9 | 4 | 80 |
+| 360d | 2025-09-27 | 14 | 89 | 6 | 25 | 8 | 148 |
+| last720d | 2024-10-02 | 39 | 130 | 6 | 60 | 18 | 407 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:52:30Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:55:40Z._
