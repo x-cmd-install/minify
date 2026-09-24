@@ -14,14 +14,14 @@ x install minify
 
 ## Code insight
 
-Total: **624,424** lines of code across **71** files in the top 5 languages.
+Total: **624,475** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 423,466 | 67,676 | 57,048 | 19 |
 | Svg | 70,338 | 9 | 1,085 | 14 |
 | Html | 36,794 | 148 | 8,188 | 18 |
-| Json | 33,267 | 0 | 3 | 12 |
+| Json | 33,311 | 0 | 3 | 12 |
 | Xml | 27,278 | 240 | 237 | 8 |
 
 ## OpenSSF Scorecard
@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 2/10 approved changesets -- score normalized to 2
+- **Code-Review** (1/10) — Found 2/11 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.24.17` (2026-08-11)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-23
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 276 · **Open PRs**: 6 · **Closed issues**: 600 · **Open issues**: 35 · **Commits**: 2772
+- **Releases**: 161 · **Merged PRs**: 280 · **Open PRs**: 2 · **Closed issues**: 601 · **Open issues**: 34 · **Commits**: 2781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 6 | 4 | 0 | 1 | 8 |
-| last60d | 2026-07-25 | 3 | 21 | 4 | 3 | 2 | 25 |
-| 90d | 2026-06-25 | 4 | 27 | 4 | 5 | 2 | 44 |
-| last180d | 2026-03-27 | 6 | 52 | 6 | 9 | 4 | 80 |
-| 360d | 2025-09-28 | 14 | 89 | 6 | 25 | 8 | 148 |
-| last720d | 2024-10-03 | 39 | 130 | 6 | 60 | 18 | 407 |
+| 30d | 2026-08-25 | 0 | 10 | 0 | 1 | 0 | 13 |
+| last60d | 2026-07-26 | 3 | 23 | 0 | 4 | 1 | 30 |
+| 90d | 2026-06-26 | 4 | 31 | 0 | 6 | 1 | 49 |
+| last180d | 2026-03-28 | 6 | 56 | 2 | 10 | 3 | 85 |
+| 360d | 2025-09-29 | 14 | 93 | 2 | 26 | 7 | 153 |
+| last720d | 2024-10-04 | 39 | 133 | 2 | 61 | 17 | 416 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:46:32Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:43:25Z._
