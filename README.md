@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/11 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 2/7 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 9 | 1 | 1 | 0 | 9 |
-| last60d | 2026-07-31 | 3 | 21 | 1 | 3 | 1 | 22 |
-| 90d | 2026-07-01 | 4 | 28 | 1 | 6 | 1 | 41 |
-| last180d | 2026-04-02 | 6 | 56 | 3 | 9 | 3 | 73 |
-| 360d | 2025-10-04 | 14 | 93 | 3 | 26 | 7 | 153 |
-| last720d | 2024-10-09 | 39 | 132 | 3 | 61 | 17 | 415 |
+| 30d | 2026-08-31 | 0 | 9 | 1 | 1 | 0 | 9 |
+| last60d | 2026-08-01 | 3 | 16 | 1 | 3 | 1 | 22 |
+| 90d | 2026-07-02 | 4 | 28 | 1 | 6 | 1 | 41 |
+| last180d | 2026-04-03 | 6 | 56 | 3 | 9 | 3 | 73 |
+| 360d | 2025-10-05 | 14 | 93 | 3 | 26 | 7 | 153 |
+| last720d | 2024-10-10 | 39 | 132 | 3 | 61 | 17 | 414 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:48:05Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:28:33Z._
