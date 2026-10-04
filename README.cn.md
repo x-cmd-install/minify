@@ -14,7 +14,7 @@ x install minify
 
 ## 代码洞察
 
-合计: **624,480** 行代码（覆盖前 5 种语言、共 **71** 个文件）。
+合计: **624,525** 行代码（覆盖前 5 种语言、共 **71** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -42,43 +42,43 @@ x install minify
 
 ## 发布
 
-- **最新版本**: `v2.24.18` (2026-10-03)
+- **最新版本**: `v2.24.19` (2026-10-03)
 - **最近提交**: 2026-10-03
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 4,141 · **Fork**: 242 · **开放 issue**: 635 · **贡献者**: 50
+- **Star**: 4,142 · **Fork**: 243 · **开放 issue**: 635 · **贡献者**: 50
 
 ## 累计统计
 
-- **发布数**: 162 · **已合并 PR**: 281 · **开放 PR**: 3 · **已关闭 issue**: 601 · **开放 issue**: 34 · **提交数**: 2787
+- **发布数**: 163 · **已合并 PR**: 281 · **开放 PR**: 3 · **已关闭 issue**: 601 · **开放 issue**: 34 · **提交数**: 2789
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 1 | 7 | 1 | 1 | 0 | 13 |
-| last60d | 2026-08-04 | 4 | 15 | 1 | 3 | 1 | 26 |
-| 90d | 2026-07-05 | 5 | 29 | 1 | 6 | 1 | 45 |
-| last180d | 2026-04-06 | 7 | 49 | 3 | 9 | 3 | 77 |
-| 360d | 2025-10-08 | 15 | 94 | 3 | 26 | 7 | 157 |
-| last720d | 2024-10-13 | 39 | 133 | 3 | 61 | 17 | 419 |
+| 30d | 2026-09-04 | 2 | 7 | 1 | 1 | 0 | 15 |
+| last60d | 2026-08-05 | 5 | 14 | 1 | 3 | 0 | 28 |
+| 90d | 2026-07-06 | 6 | 29 | 1 | 6 | 1 | 47 |
+| last180d | 2026-04-07 | 7 | 48 | 3 | 9 | 3 | 79 |
+| 360d | 2025-10-09 | 16 | 94 | 3 | 26 | 7 | 159 |
+| last720d | 2024-10-14 | 40 | 133 | 3 | 61 | 17 | 421 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/tdewolff/minify/releases/download/v2.24.18/checksums.txt) | 742 B | `other` |
-| [minify-deps.tar.xz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify-deps.tar.xz) | 5.7 MiB | `other` |
-| [minify_darwin_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_darwin_amd64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
-| [minify_darwin_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_darwin_arm64.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
-| [minify_freebsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_freebsd_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
-| [minify_linux_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_linux_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
-| [minify_linux_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_linux_arm64.tar.gz) | 2.0 MiB | `native/linux/arm64` |
-| [minify_netbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_netbsd_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
-| [minify_openbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_openbsd_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
-| [minify_windows_amd64.zip](https://github.com/tdewolff/minify/releases/download/v2.24.18/minify_windows_amd64.zip) | 2.3 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/tdewolff/minify/releases/download/v2.24.19/checksums.txt) | 742 B | `other` |
+| [minify-deps.tar.xz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify-deps.tar.xz) | 5.7 MiB | `other` |
+| [minify_darwin_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_darwin_amd64.tar.gz) | 2.2 MiB | `native/darwin/x64` |
+| [minify_darwin_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_darwin_arm64.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
+| [minify_freebsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_freebsd_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
+| [minify_linux_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_linux_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
+| [minify_linux_arm64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_linux_arm64.tar.gz) | 2.0 MiB | `native/linux/arm64` |
+| [minify_netbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_netbsd_amd64.tar.gz) | 2.1 MiB | `native/linux/x64` |
+| [minify_openbsd_amd64.tar.gz](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_openbsd_amd64.tar.gz) | 2.2 MiB | `native/linux/x64` |
+| [minify_windows_amd64.zip](https://github.com/tdewolff/minify/releases/download/v2.24.19/minify_windows_amd64.zip) | 2.3 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ minify 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261003.yml` · 2026-10-03T05:17:40Z._
+_数据快照: `data/card/261004.yml` · 2026-10-04T05:52:06Z._
