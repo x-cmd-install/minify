@@ -14,14 +14,14 @@ x install minify
 
 ## Code insight
 
-Total: **624,517** lines of code across **71** files in the top 5 languages.
+Total: **624,507** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 423,466 | 67,676 | 57,048 | 19 |
 | Svg | 70,338 | 9 | 1,085 | 14 |
 | Html | 36,794 | 148 | 8,188 | 18 |
-| Json | 33,311 | 0 | 3 | 12 |
+| Json | 33,283 | 0 | 3 | 12 |
 | Xml | 27,278 | 240 | 237 | 8 |
 
 ## OpenSSF Scorecard
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.24.19` (2026-10-03)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-12
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 163 · **Merged PRs**: 281 · **Open PRs**: 7 · **Closed issues**: 601 · **Open issues**: 34 · **Commits**: 2793
+- **Releases**: 163 · **Merged PRs**: 285 · **Open PRs**: 3 · **Closed issues**: 601 · **Open issues**: 34 · **Commits**: 2803
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 2 | 4 | 5 | 1 | 0 | 16 |
-| last60d | 2026-08-12 | 2 | 13 | 5 | 2 | 0 | 27 |
-| 90d | 2026-07-13 | 6 | 26 | 5 | 6 | 1 | 49 |
-| last180d | 2026-04-14 | 7 | 43 | 7 | 9 | 3 | 77 |
-| 360d | 2025-10-16 | 16 | 90 | 7 | 25 | 7 | 159 |
-| last720d | 2024-10-21 | 40 | 133 | 7 | 60 | 17 | 425 |
+| 30d | 2026-09-12 | 2 | 8 | 1 | 1 | 0 | 19 |
+| last60d | 2026-08-13 | 2 | 17 | 1 | 2 | 0 | 32 |
+| 90d | 2026-07-14 | 6 | 30 | 1 | 6 | 1 | 50 |
+| last180d | 2026-04-15 | 7 | 47 | 3 | 9 | 3 | 78 |
+| 360d | 2025-10-17 | 15 | 94 | 3 | 25 | 7 | 161 |
+| last720d | 2024-10-22 | 40 | 137 | 3 | 60 | 17 | 435 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:48:15Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:53:37Z._
