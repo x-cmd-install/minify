@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 742,
       "digest": "sha256:0295bba9837325dd3e17b8af4e21e3b3599b6a941464680369d421acca610300",
-      "download_count": 51,
+      "download_count": 63,
       "created_at": "2026-10-15T15:57:53Z",
       "updated_at": "2026-10-15T15:57:55Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2320531,
       "digest": "sha256:bd13c9dba1265e67edddbea1c2be40df4986221dfe5dbcba3dbd70808836c189",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-10-15T15:57:55Z",
       "updated_at": "2026-10-15T15:57:57Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/minify_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2134796,
       "digest": "sha256:036aa5fcf893e0ef1604c8c41cbbb9f74f41372782b694cfaaa36b6d2784288a",
-      "download_count": 29,
+      "download_count": 33,
       "created_at": "2026-10-15T15:57:57Z",
       "updated_at": "2026-10-15T15:58:00Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/minify_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2289839,
       "digest": "sha256:53802786c0a7417d5d5d0b6043980039e17de13ab6a54f6ca5c38d27f030fbd0",
-      "download_count": 292,
+      "download_count": 398,
       "created_at": "2026-10-15T15:58:07Z",
       "updated_at": "2026-10-15T15:58:11Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/minify_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2061630,
       "digest": "sha256:589999def5a07536225e6058966eb470567df1c46543a26ccbdab01618d5fb95",
-      "download_count": 26,
+      "download_count": 33,
       "created_at": "2026-10-15T15:58:11Z",
       "updated_at": "2026-10-15T15:58:13Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/minify_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2369753,
       "digest": "sha256:e68b2c02f0f7485f875cd961bca54fba50da68438d2233e07a47111771a09673",
-      "download_count": 54,
+      "download_count": 61,
       "created_at": "2026-10-15T15:58:21Z",
       "updated_at": "2026-10-15T15:58:26Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.24.21/minify_windows_amd64.zip"
