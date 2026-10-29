@@ -14,7 +14,7 @@ x install minify
 
 ## Code insight
 
-Total: **624,345** lines of code across **71** files in the top 5 languages.
+Total: **624,349** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.24.24` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 4,149 · **Forks**: 244 · **Open issues**: 638 · **Contributors**: 50
+- **Stars**: 4,149 · **Forks**: 244 · **Open issues**: 639 · **Contributors**: 50
 
 ## Totals (cumulative)
 
-- **Releases**: 168 · **Merged PRs**: 290 · **Open PRs**: 3 · **Closed issues**: 604 · **Open issues**: 34 · **Commits**: 2822
+- **Releases**: 168 · **Merged PRs**: 290 · **Open PRs**: 3 · **Closed issues**: 605 · **Open issues**: 34 · **Commits**: 2823
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 7 | 10 | 1 | 3 | 0 | 26 |
-| last60d | 2026-08-29 | 7 | 20 | 1 | 4 | 0 | 37 |
-| 90d | 2026-07-30 | 10 | 32 | 1 | 6 | 1 | 50 |
-| last180d | 2026-05-01 | 11 | 45 | 2 | 9 | 3 | 84 |
-| 360d | 2025-11-02 | 19 | 96 | 3 | 27 | 7 | 170 |
-| last720d | 2024-11-07 | 44 | 138 | 3 | 62 | 17 | 444 |
+| 30d | 2026-09-29 | 7 | 10 | 1 | 4 | 0 | 27 |
+| last60d | 2026-08-30 | 7 | 19 | 1 | 5 | 0 | 38 |
+| 90d | 2026-07-31 | 10 | 31 | 1 | 7 | 1 | 51 |
+| last180d | 2026-05-02 | 11 | 45 | 2 | 10 | 3 | 85 |
+| 360d | 2025-11-03 | 19 | 96 | 3 | 27 | 7 | 171 |
+| last720d | 2024-11-08 | 44 | 138 | 3 | 63 | 17 | 444 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:35:22Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:47:33Z._
