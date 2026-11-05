@@ -30,7 +30,7 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,152 · **Forks**: 246 · **Open issues**: 639 · **Contributors**: 51
+- **Stars**: 4,154 · **Forks**: 246 · **Open issues**: 639 · **Contributors**: 51
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 6 | 12 | 2 | 4 | 0 | 26 |
-| last60d | 2026-09-05 | 8 | 21 | 2 | 5 | 0 | 41 |
-| 90d | 2026-08-06 | 9 | 28 | 2 | 7 | 0 | 53 |
-| last180d | 2026-05-08 | 12 | 49 | 3 | 10 | 2 | 85 |
-| 360d | 2025-11-09 | 18 | 101 | 4 | 25 | 7 | 171 |
-| last720d | 2024-11-14 | 45 | 142 | 4 | 63 | 17 | 455 |
+| 30d | 2026-10-06 | 6 | 12 | 2 | 4 | 0 | 26 |
+| last60d | 2026-09-06 | 8 | 20 | 2 | 5 | 0 | 41 |
+| 90d | 2026-08-07 | 9 | 28 | 2 | 7 | 0 | 53 |
+| last180d | 2026-05-09 | 12 | 49 | 3 | 10 | 2 | 85 |
+| 360d | 2025-11-10 | 18 | 100 | 4 | 25 | 7 | 171 |
+| last720d | 2024-11-15 | 45 | 142 | 4 | 63 | 17 | 455 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:12:12Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:37:17Z._
