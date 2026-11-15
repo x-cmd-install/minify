@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 5 | 23 | 2 | 11 | 3 | 33 |
-| last60d | 2026-09-15 | 8 | 31 | 3 | 13 | 3 | 56 |
-| 90d | 2026-08-16 | 8 | 40 | 3 | 14 | 3 | 68 |
-| last180d | 2026-05-18 | 12 | 62 | 4 | 18 | 5 | 101 |
-| 360d | 2025-11-19 | 18 | 111 | 5 | 33 | 9 | 185 |
-| last720d | 2024-11-24 | 45 | 153 | 5 | 67 | 18 | 484 |
+| 30d | 2026-10-16 | 4 | 23 | 2 | 11 | 3 | 25 |
+| last60d | 2026-09-16 | 8 | 31 | 3 | 13 | 3 | 54 |
+| 90d | 2026-08-17 | 8 | 40 | 3 | 14 | 3 | 65 |
+| last180d | 2026-05-19 | 12 | 62 | 4 | 18 | 5 | 101 |
+| 360d | 2025-11-20 | 18 | 110 | 5 | 33 | 9 | 184 |
+| last720d | 2024-11-25 | 44 | 151 | 5 | 67 | 18 | 476 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:17:30Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:22:34Z._
