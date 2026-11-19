@@ -14,11 +14,11 @@ x install minify
 
 ## Code insight
 
-Total: **624,616** lines of code across **71** files in the top 5 languages.
+Total: **626,154** lines of code across **71** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 423,466 | 67,676 | 57,048 | 19 |
+| JavaScript | 424,979 | 65,086 | 56,263 | 19 |
 | Svg | 70,338 | 9 | 1,085 | 14 |
 | Html | 36,794 | 148 | 8,188 | 18 |
 | Json | 33,106 | 0 | 3 | 12 |
@@ -33,27 +33,27 @@ Total: **624,616** lines of code across **71** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.25.0` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 65
 
 ## Popularity
 
-- **Stars**: 4,156 · **Forks**: 247 · **Open issues**: 651 · **Contributors**: 52
+- **Stars**: 4,156 · **Forks**: 247 · **Open issues**: 652 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 170 · **Merged PRs**: 309 · **Open PRs**: 5 · **Closed issues**: 615 · **Open issues**: 36 · **Commits**: 2870
+- **Releases**: 170 · **Merged PRs**: 310 · **Open PRs**: 3 · **Closed issues**: 617 · **Open issues**: 35 · **Commits**: 2873
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 5 | 19 | 2 | 11 | 4 | 28 |
-| last60d | 2026-09-18 | 9 | 32 | 3 | 13 | 4 | 57 |
-| 90d | 2026-08-19 | 9 | 41 | 3 | 14 | 4 | 68 |
-| last180d | 2026-05-21 | 13 | 63 | 4 | 18 | 5 | 104 |
-| 360d | 2025-11-22 | 19 | 111 | 5 | 33 | 10 | 187 |
-| last720d | 2024-11-27 | 45 | 152 | 5 | 67 | 19 | 478 |
+| 30d | 2026-10-20 | 4 | 20 | 0 | 12 | 3 | 30 |
+| last60d | 2026-09-20 | 9 | 30 | 1 | 14 | 3 | 59 |
+| 90d | 2026-08-21 | 9 | 42 | 1 | 16 | 3 | 70 |
+| last180d | 2026-05-23 | 13 | 64 | 1 | 20 | 4 | 106 |
+| 360d | 2025-11-24 | 19 | 112 | 3 | 35 | 9 | 189 |
+| last720d | 2024-11-29 | 45 | 153 | 3 | 69 | 18 | 481 |
 
 ## Release assets
 
@@ -134,4 +134,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:52:05Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:51:57Z._
