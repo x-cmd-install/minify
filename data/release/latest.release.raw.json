@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 742,
       "digest": "sha256:0671f9e4da19d66c7f17b475b929cbe7bb86c3a1a60c3a8dcf1f0092e997b3d4",
-      "download_count": 42,
+      "download_count": 116,
       "created_at": "2026-11-16T18:03:59Z",
       "updated_at": "2026-11-16T18:04:00Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2325417,
       "digest": "sha256:4b28a107fb44ea6ef7c7f348bdc622e3fa07869f33bd70a66c5996d02e810bc1",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-16T18:04:00Z",
       "updated_at": "2026-11-16T18:04:01Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/minify_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2137117,
       "digest": "sha256:1bc11f15d947596e3a7cc775c11a536acb7edbc54c621d3f673fe8575da16e78",
-      "download_count": 6,
+      "download_count": 19,
       "created_at": "2026-11-16T18:04:01Z",
       "updated_at": "2026-11-16T18:04:02Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/minify_darwin_arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2294389,
       "digest": "sha256:bf5908d0266e6bca31e2d89d7ee9ab537f7a4770578382b5120cbf23dc17b2cf",
-      "download_count": 171,
+      "download_count": 950,
       "created_at": "2026-11-16T18:04:04Z",
       "updated_at": "2026-11-16T18:04:04Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/minify_linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2063885,
       "digest": "sha256:7c7353a11e275186b2c870459ee6bb8170cf56ee7ab1c9715733ac873f914a74",
-      "download_count": 15,
+      "download_count": 54,
       "created_at": "2026-11-16T18:04:04Z",
       "updated_at": "2026-11-16T18:04:05Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/minify_linux_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2373277,
       "digest": "sha256:d3b396dbe32c9bd26c55c396c20c3bb49f5e070408f7a679c9309151d342a22d",
-      "download_count": 19,
+      "download_count": 63,
       "created_at": "2026-11-16T18:04:07Z",
       "updated_at": "2026-11-16T18:04:08Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/minify_windows_amd64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 4148043,
       "digest": "sha256:b7674fcfb9bfb9aae3ef62794e83bd178047b3ec6ae6ccb81e556cda33428366",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp310-cp310-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3864414,
       "digest": "sha256:417aef94d219bc9eef1bb201da01f981ed8a0a319f39c9bc857018bfb5b8ff53",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:18Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp310-cp310-musllinux_1_2_x86_64.whl"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 4148042,
       "digest": "sha256:0eb42f1c82761c9ddccd558e98f0231e7cbface3287bd6a2954db96aecd189b6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp311-cp311-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 3864414,
       "digest": "sha256:f98376c0dbb0d066907b1cbdb0ddca7d5597c871ae14cc395e6709a5b04d2b25",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp311-cp311-musllinux_1_2_x86_64.whl"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 4148041,
       "digest": "sha256:691f28141ae84573b706dc1a551e6efc26638e0c9fa2648ae227e4dbb9d0aa1c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp312-cp312-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 3864412,
       "digest": "sha256:62acb56f4757569e23bae45a79decb2c3e3d1ae9b2117f201eb67898b8633c29",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp312-cp312-musllinux_1_2_x86_64.whl"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 4148043,
       "digest": "sha256:60b8bda1f2a8d15ad94197b310d862dd187eb2d680b77c59f15f6c437c151d06",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:18Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp313-cp313-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 3864415,
       "digest": "sha256:9e4d9a12287aad383701fe3d6b87b70694e3544f36e5bfce3e8a08270eb97542",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp313-cp313-musllinux_1_2_x86_64.whl"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 4148042,
       "digest": "sha256:cd5c7e215219949bcd4ab0b828345be5b6748c4e99900810f02ac554b58dc344",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp314-cp314-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 3864414,
       "digest": "sha256:250997b35d2cd76f6fc39d3b881643c3bed9d791b0ca5547526d109c4c25d4df",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp314-cp314-musllinux_1_2_x86_64.whl"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 4148045,
       "digest": "sha256:f6bf7f77fff1fe82b98ce8aa7e4ca62fb1118a3efec08118590203d7deca6376",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp314-cp314t-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 3864414,
       "digest": "sha256:c428ba2d7346d43a4ec0098181af87fce68750620d6bf087f0d28fdc02f55792",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp314-cp314t-musllinux_1_2_x86_64.whl"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 4148044,
       "digest": "sha256:8784436f3718136fd79a635eb914e61c7c1dbcfc7cba513806768763ec1ea6df",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp315-cp315-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 3864415,
       "digest": "sha256:17b8bf4130ca8d4d547fdd95a3cf070d63a3782689e73444aaedc1aee82c22b1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp315-cp315-musllinux_1_2_x86_64.whl"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 4148044,
       "digest": "sha256:c46811dd18b8cb2b4ab5326e738893ffea0eba404f723f636485f1cc92ad4182",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp315-cp315t-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 3864413,
       "digest": "sha256:dbdc8a9c31150a234bca1ca3da47740528b05d154857418b953d21439cd9f75e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp315-cp315t-musllinux_1_2_x86_64.whl"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 4148042,
       "digest": "sha256:01f5b7c791ea724f44cc50032d31b001f7f7081b4420e33b8e5b66f76d7d9328",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp39-cp39-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 3864413,
       "digest": "sha256:b9df5d7b706fbce7319beaa3a0a0670084b42877187a3fb51443bcff0ca0a416",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-16T18:06:16Z",
       "updated_at": "2026-11-16T18:06:17Z",
       "browser_download_url": "https://github.com/tdewolff/minify/releases/download/v2.25.0/tdewolff_minify-2.25.0-cp39-cp39-musllinux_1_2_x86_64.whl"
@@ -2380,5 +2380,17 @@
   "tarball_url": "https://api.github.com/repos/tdewolff/minify/tarball/v2.25.0",
   "zipball_url": "https://api.github.com/repos/tdewolff/minify/zipball/v2.25.0",
   "body": "- [Python: replace use of QEMU for ARM64 builds with an ARM64 OS](https://github.com/tdewolff/minify/commit/3d77a26786d8f77a664c4da964ebe0c3067372a0)\r\n- [JS: empty string literal is falsy in conditions,](https://github.com/tdewolff/minify/commit/706a2f6529752c87778aaf717e87ed5756b22b7c) [fixes](https://github.com/tdewolff/minify/commit/706a2f6529752c87778aaf717e87ed5756b22b7c) https://github.com/tdewolff/minify/issues/1065\r\n- [JS: keep Math.trunc(x) instead of x|0,](https://github.com/tdewolff/minify/commit/d77f359ba25503c246a87db254d4dbcfc974a29d) [fixes](https://github.com/tdewolff/minify/commit/d77f359ba25503c246a87db254d4dbcfc974a29d) https://github.com/tdewolff/minify/issues/1077\r\n- [JS: only drop a true/false right operand of && and || when the left side is a boolean, fixes https://github.com/tdewolff/minify/issues/1066](https://github.com/tdewolff/minify/commit/a6aefc75c776fd437f223324b7b83d988616b7f0)\r\n- [JS: keep a backslash escaped when decoding \\u005c and \\u{5c},](https://github.com/tdewolff/minify/commit/f7e15edece2012949f070202784ea7f9ad3d2523) [fixes](https://github.com/tdewolff/minify/commit/f7e15edece2012949f070202784ea7f9ad3d2523) https://github.com/tdewolff/minify/issues/1071\r\n- [JS: drop return when removing a trailing undefined from a comma list, fixes https://github.com/tdewolff/minify/issues/1070](https://github.com/tdewolff/minify/commit/095f793de7dd30393489a010a548c15d4754838a)\r\n- [JS: follow linked variables when checking let/const destructuring dependencies, fixes https://github.com/tdewolff/minify/issues/1068](https://github.com/tdewolff/minify/commit/bf8e15e22347a8c632a56abd55a62427ea3cafe3)\r\n- [JS: keep import attributes (with clause) of import and export statements, fixes https://github.com/tdewolff/minify/issues/786](https://github.com/tdewolff/minify/commit/13905c73d4b3eee50bb225b05311efb1072d8568)\r\n- [JS: keep var destructuring after the variables it reads,](https://github.com/tdewolff/minify/commit/d09fd9dfd1053c9a3bc4233630097c4db3334337) [fixes](https://github.com/tdewolff/minify/commit/d09fd9dfd1053c9a3bc4233630097c4db3334337) https://github.com/tdewolff/minify/issues/1067\r\n- [JS: keep Math.sqrt(x) unless x is a number literal, and skip Math rewrites with spread args](https://github.com/tdewolff/minify/commit/14302a6316df2ab0fdcace984da0d4c026316788)\r\n- [CSS: collapse whitespace in custom property values,](https://github.com/tdewolff/minify/commit/34fa1c012ed3cc584d11703f8a8c209e6a469f2a) [fixes](https://github.com/tdewolff/minify/commit/34fa1c012ed3cc584d11703f8a8c209e6a469f2a) https://github.com/tdewolff/minify/issues/740\r\n- [JS: keep Math.abs(x) instead of x<0?-x:x](https://github.com/tdewolff/minify/commit/d7784f80d4467fd1ab29517dec465d75a7894d8b)\r\n- [JS: fix member access on grouped number literals](https://github.com/tdewolff/minify/commit/e7e6f2bbd2e2f62500c79246dda01a9cbbae22b3)\r\n- [HTML: fix passing escape-html for any script tag, regardless whether content type is set\r\n](https://github.com/tdewolff/minify/commit/615396c79bb0de04213f9d62945b729d464ed3d0)\r\n\r\nThanks to @bardrop and @max-moser for the PRs!",
+  "reactions": {
+    "url": "https://api.github.com/repos/tdewolff/minify/releases/447397543/reactions",
+    "total_count": 3,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 3,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
