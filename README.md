@@ -24,6 +24,16 @@ Total: **626,158** lines of code across **71** files in the top 5 languages.
 | Json | 33,106 | 0 | 3 | 12 |
 | Xml | 27,278 | 240 | 237 | 8 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/11 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/tdewolff/minify>
@@ -48,12 +58,12 @@ Total: **626,158** lines of code across **71** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 21 | 0 | 10 | 3 | 0 |
-| last60d | 2026-09-28 | 9 | 31 | 1 | 14 | 3 | 0 |
-| 90d | 2026-08-29 | 9 | 41 | 1 | 15 | 3 | 0 |
-| last180d | 2026-05-31 | 13 | 64 | 1 | 20 | 4 | 0 |
-| 360d | 2025-12-02 | 19 | 111 | 3 | 34 | 9 | 0 |
-| last720d | 2024-12-07 | 45 | 154 | 3 | 68 | 18 | 483 |
+| 30d | 2026-10-29 | 2 | 21 | 0 | 10 | 3 | 28 |
+| last60d | 2026-09-29 | 9 | 31 | 1 | 14 | 3 | 56 |
+| 90d | 2026-08-30 | 9 | 40 | 1 | 15 | 3 | 69 |
+| last180d | 2026-06-01 | 13 | 64 | 1 | 20 | 4 | 106 |
+| 360d | 2025-12-03 | 19 | 111 | 3 | 34 | 9 | 181 |
+| last720d | 2024-12-08 | 45 | 154 | 3 | 68 | 18 | 483 |
 
 ## Release assets
 
@@ -134,4 +144,4 @@ Install metadata for minify lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:23:47Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:43:14Z._
